@@ -1,0 +1,17 @@
+[{
+	"dtoType": "command",
+	"value": "cmedit get * networkelement.netype==\"VEPG\""
+}, {
+	"dtoType": "line",
+	"value": ""
+}, {
+	"dtoType": "line",
+	"value": "0 instance(s)"
+}, {
+	"dtoType": "summary",
+	"errorCode": 0,
+	"statusMessage": "0 instance(s)",
+	"errorMessage": null,
+	"suggestedSolution": null,
+	"logReference": "st:31f6da19-06ac-4bcc-a7f4-b8fd2435143d"
+}]
